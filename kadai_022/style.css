@@ -1,5 +1,8 @@
-html {
+h1, p, body {
   margin: 0;
+}
+
+p, a {
   font-size: 20px;
 }
 
@@ -30,7 +33,7 @@ main {
   text-align: center;
 }
 
-h2 {
+#h2 {
   font-size: 25px;
   border-bottom: 3px dotted rgb(236, 122, 122);
 }
