@@ -1,6 +1,9 @@
+html {
+  font-size: 20px;
+}
+
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 20px;
   text-align: center;
 }
 
@@ -12,11 +15,11 @@ body {
   color: rgb(255, 192, 203);
 }
 
-#basic {
+#basic>div>p {
   font-weight: bold;
 }
 
-h1 {
+body>h1 {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
