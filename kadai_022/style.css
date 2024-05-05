@@ -1,8 +1,11 @@
-h1, p, body {
+h1,
+p,
+body {
   margin: 0;
 }
 
-p, a {
+p,
+a {
   font-size: 20px;
 }
 
@@ -72,16 +75,16 @@ a:hover {
 
 @media screen and (max-width: 768px) {
 
-h2 {
-  font-size: 30px;
-}
+  h2 {
+    font-size: 30px;
+  }
 
-p {
-  font-size: 25px;
-}
+  p {
+    font-size: 25px;
+  }
 
-#parent {
-  flex-direction: column;
-}
+  #parent {
+    flex-direction: column;
+  }
 
 }
