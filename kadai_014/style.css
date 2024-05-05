@@ -19,12 +19,12 @@ body {
   font-weight: bold;
 }
 
-body>h1 {
+h1 {
   font-family: "Josefin Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-size: 2em;
+  font-size: 200%;
   letter-spacing: 1.2em;
   border-bottom: solid 3px rgb(115, 115, 114);
   text-shadow: 3px 3px 5px gray;
